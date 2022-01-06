@@ -1,0 +1,12 @@
+{
+  "class" : [ null, {
+    "name" : "alexa",
+    "roll_no" : 1
+  }, {
+    "name" : "siri",
+    "roll_no" : 2
+  }, {
+    "name" : "sophia",
+    "roll_no" : 3
+  } ]
+}
